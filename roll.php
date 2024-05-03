@@ -5,6 +5,7 @@
   <body>
 <?php
 
+// Random int
 class R
 {
   private static $r=[];
