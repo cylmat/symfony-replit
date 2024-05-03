@@ -65,7 +65,7 @@
             "require": "7.0.*"
         },
         "runtime": {
-            "dotenv_path": "env/env"
+            "dotenv_path": "env/dot.env"
         }
     }
 }
